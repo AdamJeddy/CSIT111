@@ -1,3 +1,10 @@
+/*
+Write an algorithm in pseudocode and draw the flowchart for that finds the sum of two numbers 
+Input: Two numbers 
+Output: sum of the two numbers 
+Purpose: To find the sum of two numbers 
+*/
+
 package Week1;
 import java.util.Scanner;
 public class Lab01 {
