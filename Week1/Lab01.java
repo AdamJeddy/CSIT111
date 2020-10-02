@@ -19,14 +19,14 @@ public static void main(String[] args) {
 	          System.out.println(n+" is not prime number");      
 	  }//if
 	  else
-	  {  for(i=2;i<=m;i++){  
-		  if(n%i==0){  
+	  {  for(i=2;i<=m;i++)
+	     { 	if(n%i==0){  
 			System.out.println(n+" is not prime number");      
-	                flag=1;      
+	                flag = 1;      
 	                break;      
-	          }//if end    
+	        }//if end    
 	     }//for end
-	     if(flag==0)  { System.out.println(n+" is prime number"); }  
+	     if(flag == 0)  { System.out.println(n+" is prime number"); }  
 	  } //else  
 }
 }
