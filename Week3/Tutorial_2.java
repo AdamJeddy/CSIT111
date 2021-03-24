@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class Tutorial_2 {
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
         //Part A Question 1 
         System.out.println("Part A Question 1");
         int num1_1;
